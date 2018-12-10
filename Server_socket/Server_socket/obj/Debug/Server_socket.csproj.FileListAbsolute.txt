@@ -1,0 +1,6 @@
+D:\Mes_etude\Systèmes distribués\TP\Server_socket\Server_socket\bin\Debug\Server_socket.exe.config
+D:\Mes_etude\Systèmes distribués\TP\Server_socket\Server_socket\bin\Debug\Server_socket.exe
+D:\Mes_etude\Systèmes distribués\TP\Server_socket\Server_socket\bin\Debug\Server_socket.pdb
+D:\Mes_etude\Systèmes distribués\TP\Server_socket\Server_socket\obj\Debug\Server_socket.csprojResolveAssemblyReference.cache
+D:\Mes_etude\Systèmes distribués\TP\Server_socket\Server_socket\obj\Debug\Server_socket.exe
+D:\Mes_etude\Systèmes distribués\TP\Server_socket\Server_socket\obj\Debug\Server_socket.pdb

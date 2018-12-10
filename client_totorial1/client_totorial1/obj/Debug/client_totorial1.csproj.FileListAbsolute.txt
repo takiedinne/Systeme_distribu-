@@ -1,0 +1,9 @@
+D:\Mes_etude\Systèmes distribués\TP\client_totorial1\client_totorial1\bin\Debug\client_totorial1.exe.config
+D:\Mes_etude\Systèmes distribués\TP\client_totorial1\client_totorial1\bin\Debug\client_totorial1.exe
+D:\Mes_etude\Systèmes distribués\TP\client_totorial1\client_totorial1\bin\Debug\client_totorial1.pdb
+D:\Mes_etude\Systèmes distribués\TP\client_totorial1\client_totorial1\obj\Debug\client_totorial1.Form1.resources
+D:\Mes_etude\Systèmes distribués\TP\client_totorial1\client_totorial1\obj\Debug\client_totorial1.Properties.Resources.resources
+D:\Mes_etude\Systèmes distribués\TP\client_totorial1\client_totorial1\obj\Debug\client_totorial1.csproj.GenerateResource.Cache
+D:\Mes_etude\Systèmes distribués\TP\client_totorial1\client_totorial1\obj\Debug\client_totorial1.exe
+D:\Mes_etude\Systèmes distribués\TP\client_totorial1\client_totorial1\obj\Debug\client_totorial1.pdb
+D:\Mes_etude\Systèmes distribués\TP\client_totorial1\client_totorial1\obj\Debug\client_totorial1.csprojResolveAssemblyReference.cache
